@@ -109,10 +109,10 @@
 ## 🎁 프로젝트 구성
 
 ### 1. 아키텍쳐
-![architecture](/img/architecture.png)
+![architecture](./img/architecture.png)
 
 ### 2. ERD
-![erd](/img/erd.png)
+![erd](./img/erd.png)
 자세한 내용은 [테이블 정의서](https://www.erdcloud.com/d/RuqyFnsygFEjrCraC)에 정리해두었습니다
 
 <br>
@@ -202,4 +202,4 @@
 <br>
 
 ## 👻 UI/UX
-![시연 이미지](/img/example.gif)
+![시연 이미지](./img/example.gif)
